@@ -1,5 +1,1 @@
-{
-    "updated_at":  "2026-11-17T21:20:41+08:00",
-    "notice":  "AI 错题本 App 启动时读取；修改后重启 App 生效",
-    "apiBaseUrl":  "http://8.213.136.134/api"
-}
+﻿{"apiBaseUrl":"http://189.24.93.116/api","notice":"AI 错题本 App 启动时读取；修改后重启 App 生效","updated_at":"2026-11-18T12:52:05+08:00"}
